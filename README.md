@@ -10,8 +10,7 @@ Big Data and Data Mining (Autumn 2024)
 - **Part A** focuses on creating DataFrames, slicing, filtering, and basic manipulations.
 - **Part B** delves into advanced data wrangling techniques like `groupby` operations, filtering, and creating pivot tables.
 - **Part C** involves data cleaning, visualization, and exploratory data analysis (EDA) using a dataset from the City of Berkeley, containing police call records.
-
-By completing this lab, you will gain practical skills in handling real-world data and learn techniques to clean, manipulate, and analyze datasets effectively.
+Large data sets can be automatically downloaded in the program！
 
 ## Learning Objectives
 
